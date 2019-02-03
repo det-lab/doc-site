@@ -2,13 +2,13 @@ site:
   title: Det-Lab Documentation Site
   # the 404 page and sitemap files only get generated when the url property is set
   url: https://hungry-liskov-0501e4.netlify.com
-  start_page: component-b::index.adoc
+  start_page: doc-coding::index.adoc
 content:
   sources:
   - url: https://github.com/det-lab/doc-linux.git
     branches: master
-  - url: https://gitlab.com/antora/demo/demo-component-b.git
-    branches: [v2.0, v1.0]
+  - url: https://gitlab.com/det-lab/doc-coding.git
+    branches: master
     start_path: docs
 ui:
   bundle:

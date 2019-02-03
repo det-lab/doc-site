@@ -7,7 +7,7 @@ content:
   sources:
   - url: https://github.com/det-lab/doc-linux.git
     branches: master
-  - url: https://gitlab.com/det-lab/doc-coding.git
+  - url: https://github.com/det-lab/doc-coding.git
     branches: master
     start_path: docs
 ui:

@@ -10,10 +10,10 @@ content:
   - url: https://github.com/det-lab/doc-coding.git
     branches: master
     start_path: docs
-  - url: https://github.com/det-lab/doc-python.git
-    branches: master
+  #- url: https://github.com/det-lab/doc-python.git
+  #  branches: master
 ui:
   bundle:
-    url: https://github.com/det-lab/doc-ui/releases/download/v2/ui-bundle.zip
+    url: https://github.com/det-lab/doc-ui/releases/download/v2.0.1/ui-bundle.zip
     #url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true

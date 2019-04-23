@@ -10,8 +10,8 @@ content:
   - url: https://github.com/det-lab/doc-coding.git
     branches: master
     start_path: docs
-  #- url: https://github.com/det-lab/doc-python.git
-  #  branches: master
+  - url: https://github.com/det-lab/doc-python.git
+    branches: master
 ui:
   bundle:
     url: https://github.com/det-lab/doc-ui/releases/download/v3/ui-bundle.zip
